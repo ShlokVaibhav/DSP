@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "DSSS.html#ai-usage-llms-consulted-for-suggestions-for-python-syntax-only",
+    "href": "DSSS.html#ai-usage-llms-consulted-for-suggestions-for-python-syntax-only",
+    "title": "BPSK Implementation",
+    "section": "AI Usage: LLms consulted for suggestions for python syntax only",
+    "text": "AI Usage: LLms consulted for suggestions for python syntax only"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSP",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
