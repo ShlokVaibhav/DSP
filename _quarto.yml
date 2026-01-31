@@ -10,6 +10,9 @@ website:
       - about.qmd
       - href: DSSS.ipynb
         text: DSSS Notebook
+      - href: Costas.ipynb
+        text: Costas Loop
+
 
 
 format:
